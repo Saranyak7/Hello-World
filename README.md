@@ -1,2 +1,2 @@
 # Hello-World
-This is the place where I store ideas for my public projects
+I'm learning web development via odin project
